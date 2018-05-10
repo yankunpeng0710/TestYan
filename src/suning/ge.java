@@ -17,6 +17,8 @@ package suning;
 public class ge {
      public static void main(String[] args) {
 		System.out.println("gignaf");
+		
+		System.out.println("gitand;l");
 	}
      
 }
